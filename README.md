@@ -12,6 +12,9 @@ Tools & Technologies
 - Profit or loss
 - Order date (used for time-based analysis)
 
+  <img width="2472" height="816" alt="Samplestore  screenshot excel" src="https://github.com/user-attachments/assets/f47f7aaf-160b-4e21-9c16-057c07937d03" />
+
+
  ## Tools & Skills Used
 - SQL (MySQL)
 - Data cleaning & transformation
